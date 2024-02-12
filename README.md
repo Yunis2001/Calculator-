@@ -8,3 +8,6 @@ Features:
 
 Addition: Perform addition operations by entering two numbers and pressing the "+" button.
 Subtraction: Subtract one number from another by entering them and pressing the "-" button.
+
+Multiplication: Multiply two numbers together by entering them and pressing the "x" button.
+Division: Divide one number by another by entering them and pressing the "÷" button.
