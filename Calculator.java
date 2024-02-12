@@ -9,8 +9,8 @@ public class Calculator {
          System.out.println("Enter First Number:");
          number1 = eunice.nextInt();
 
-    //     System.out.println("Enter Second Number:");
-    //     number2 = fred.nextInt();
+         System.out.println("Enter Second Number:");
+        //  number2 = fred.nextInt();
 
     //     sum = number1 + number2;
     //     System.out.println("Sum is " + sum);
