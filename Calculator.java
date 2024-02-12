@@ -18,8 +18,8 @@ public class Calculator {
          mul = number1*number2;
          System.out.println("mul is " + mul);
         
-    //     div = number1/number2;
-    //     System.out.println("div is " + div);
+         div = number1/number2;
+         System.out.println("div is " + div);
 
        
     }
