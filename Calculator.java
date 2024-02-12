@@ -10,7 +10,7 @@ public class Calculator {
          number1 = eunice.nextInt();
 
          System.out.println("Enter Second Number:");
-        //  number2 = fred.nextInt();
+         number2 = fred.nextInt();
 
     //     sum = number1 + number2;
     //     System.out.println("Sum is " + sum);
