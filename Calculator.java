@@ -15,8 +15,8 @@ public class Calculator {
          sum = number1 + number2;
         System.out.println("Sum is " + sum);
          
-    //     mul = number1*number2;
-    //     System.out.println("mul is " + mul);
+         mul = number1*number2;
+         System.out.println("mul is " + mul);
         
     //     div = number1/number2;
     //     System.out.println("div is " + div);
