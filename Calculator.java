@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Calculator {
 
-    // public static void main(String[] args) {
+    public static void main(String[] args) {
     //     int number1, number2, sum, mul, div;
     //     Scanner fred = new Scanner(System.in);
 
@@ -22,5 +22,5 @@ public class Calculator {
     //     System.out.println("div is " + div);
 
        
-    // }
+    }
 }
