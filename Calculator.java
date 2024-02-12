@@ -3,11 +3,11 @@ import java.util.Scanner;
 public class Calculator {
 
     public static void main(String[] args) {
-    //     int number1, number2, sum, mul, div;
-    //     Scanner fred = new Scanner(System.in);
+       int number1, number2, sum, mul, div;
+       Scanner eunice = new Scanner(System.in);
 
-    //     System.out.println("Enter First Number:");
-    //     number1 = fred.nextInt();
+         System.out.println("Enter First Number:");
+         number1 = eunice.nextInt();
 
     //     System.out.println("Enter Second Number:");
     //     number2 = fred.nextInt();
